@@ -1,6 +1,5 @@
 # pyrtsignal
-Real time signals (SIGRT) for Python
-Ad hoc python library for handling real time signals
+Real time signals (SIGRT) for Python. Ad hoc python library for handling real time signals
 
 ## Functions
 * set_sighandler - Set real time singal handler in python code. Call (int signal_number, pyfunc handler), handler is (int signum, int value)
