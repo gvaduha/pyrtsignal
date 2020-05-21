@@ -1,4 +1,5 @@
 # pyrtsignal
+[![Build Status](https://travis-ci.org/gvaduha/pyrtsignal.svg?branch=master)](https://travis-ci.org//gvaduha/pyrtsignal) 
 Real time signals (SIGRT) for Python. Ad hoc python library for handling real time signals
 
 ## Functions
